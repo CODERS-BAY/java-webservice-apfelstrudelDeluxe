@@ -1,5 +1,7 @@
 # Fruit Webservice
 
+done
+
 The servlet is available under:
 ~~~shell
 http://localhost:8080/Fruits/FruitServlet
